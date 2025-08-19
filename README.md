@@ -14,11 +14,9 @@ A tech enthusiast passionate about **Competitive Programming, Data Science, and 
 
 ---
 
-### 🌐 Connect with Me
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([your-linkedin-url](https://www.linkedin.com/in/aditi-sahu-8a7186290/))  
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)]([your-leetcode-url](https://leetcode.com/u/aditisahu12/))  
-[![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces)]([your-codeforces-url](https://codeforces.com/profile/aditisahu12))  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)]([your-codechef-url](https://www.codechef.com/users/ad1ti))  
+### 🌐 Connect with Me  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-sahu-8a7186290/) [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/aditisahu12/) [![Codeforces](https://img.shields.io/badge/Codeforces-445F9D?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/aditisahu12) [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/ad1ti)
+
 
 ---
 
