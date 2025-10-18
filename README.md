@@ -8,7 +8,7 @@ A tech enthusiast passionate about **Competitive Programming, Data Science, and 
 - 🎓 Second-year Engineering student pursuing an Integrated B.Tech, passionate about diving deeper into the **technical field**  
 - 💻 Active on **LeetCode, Codeforces, and CodeChef**, solving **DSA & CP problems**  
 - 📊 Exploring **Data Science, Machine Learning, and AI** — building projects with **Python, NumPy, Pandas, PyTorch, and Scikit-learn**  
-- 🚀 Interested in **end-to-end projects** that combine data-driven insights with real-world applications  
+- 🚀 Interested in **end-to-end projects** that combine data driven insights with real-world applications  
 - 🤝 Open to collaborating on **competitive programming**, **open-source contributions**, and **ML/AI projects**  
 
 ---
