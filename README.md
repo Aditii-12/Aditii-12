@@ -32,11 +32,6 @@ A tech enthusiast passionate about **Competitive Programming, Data Science, and 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-### 📊 GitHub Stats
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditii-12&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditii-12&layout=compact&theme=radical)
-
 ---
 
 ⭐️ *Thanks for visiting my profile! Feel free to connect and collaborate.*  
