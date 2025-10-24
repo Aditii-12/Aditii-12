@@ -5,7 +5,7 @@ A tech enthusiast passionate about **Competitive Programming, Data Science, and 
 ---
 
 ### ✨ About Me
-- 🎓 Second-year Engineering student pursuing an Integrated B.Tech, passionate about diving deeper into the **technical field**  
+- 🎓 Third-year Engineering student pursuing an Integrated B.Tech, passionate about diving deeper into the **technical field**  
 - 💻 Active on **LeetCode, Codeforces, and CodeChef**, solving **DSA & CP problems**  
 - 📊 Exploring **Data Science, Machine Learning, and AI** — building projects with **Python, NumPy, Pandas, PyTorch, and Scikit-learn**  
 - 🚀 Interested in **end-to-end projects** that combine data driven insights with real-world applications  
@@ -31,6 +31,8 @@ A tech enthusiast passionate about **Competitive Programming, Data Science, and 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 📊 GitHub Stats
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditii-12&show_icons=true&theme=radical) 
 
 
 ⭐️ *Thanks for visiting my profile! Feel free to connect and collaborate.*  
