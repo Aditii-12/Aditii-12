@@ -38,9 +38,23 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
+### 📊 GitHub Stats
 
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aditii-12&show_icons=true&theme=radical&cache_seconds=1800)
+<!-- 
+<p>
+  <img align="left"
+       src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditii-12&show_icons=true&locale=en&layout=compact&theme=tokyonight"
+       alt="Aditii-12" />
+</p>
 
+<p>&nbsp;
+  <img align="center"
+       src="https://github-readme-stats.vercel.app/api?username=Aditii-12&show_icons=true&locale=en&theme=tokyonight"
+       alt="Aditii-12" />
+</p>
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats-cyan-beta.vercel.app?user=Aditii-12&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
