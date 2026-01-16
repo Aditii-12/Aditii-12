@@ -40,22 +40,11 @@
 ---
 ### 📊 GitHub Stats
 
-<!-- 
-<p>
-  <img align="left"
-       src="https://github-readme-stats.vercel.app/api/top-langs?username=Aditii-12&show_icons=true&locale=en&layout=compact&theme=tokyonight"
-       alt="Aditii-12" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats-cyan-beta.vercel.app?user=Aditii-12&theme=dark&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ffb6c1&dates=ffc0cb)](https://git.io/streak-stats)
 
-<p>&nbsp;
-  <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=Aditii-12&show_icons=true&locale=en&theme=tokyonight"
-       alt="Aditii-12" />
-</p>
--->
-
-[![GitHub Streak](https://github-readme-streak-stats-cyan-beta.vercel.app?user=Aditii-12&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Aditii-12&show_icons=true&theme=radical&title_color=ff69b4&icon_color=ff1493&text_color=ffc0cb&bg_color=0d1117&hide_border=true" />
 
 ---
+
 
 ⭐️ *Thanks for stopping by! Feel free to connect and collaborate.*
