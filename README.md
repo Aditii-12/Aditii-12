@@ -7,8 +7,8 @@
 ### ✨ About Me
 - 🎓 Third-year **Integrated B.Tech student**, passionate about software engineering and problem-solving  
 - 💻 Active **Competitive Programmer** across **LeetCode, Codeforces, and CodeChef**  
-- 🧠 Solved **550+ DSA problems on LeetCode**  
-- ⭐ **Codeforces Specialist** (Max Rating: **1431**)  
+- 🧠 Solved **600+ DSA problems on LeetCode**  
+- ⭐ **Codeforces Specialist** (Max Rating: **1422**)  
 - 🌟 **3★ CodeChef Coder**  
 - 📊 Exploring **Data Science, Machine Learning, and AI** with hands-on projects using **Python, NumPy, Pandas, PyTorch, and Scikit-learn**  
 - 🚀 Interested in building **end-to-end, data-driven applications**  
