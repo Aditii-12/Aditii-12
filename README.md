@@ -70,17 +70,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/aditisahu12&label=Ranking&query=$.ranking&color=1F2937&style=for-the-badge&logo=leetcode&logoColor=FFA116"
-  />
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/aditisahu12&label=Reputation&query=$.reputation&color=1F2937&style=for-the-badge&logo=leetcode&logoColor=22C55E"
-  />
-  <img
-    src="https://img.shields.io/badge/dynamic/json?url=https://alfa-leetcode-api.onrender.com/userProfile/aditisahu12&label=Contribution%20Points&query=$.contributionPoint&color=1F2937&style=for-the-badge&logo=leetcode&logoColor=FF69B4"
-  />
-</p>
 
 <p align="center">
   <img
