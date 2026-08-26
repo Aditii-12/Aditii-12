@@ -1,0 +1,19 @@
+name: Generate Contribution Constellation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  comet:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate contribution constellation
+        uses: kiaquila/comet-contribution-graph@main
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
