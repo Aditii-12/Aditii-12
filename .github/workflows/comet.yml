@@ -16,4 +16,7 @@ jobs:
       - name: Generate contribution constellation
         uses: kiaquila/comet-contribution-graph@main
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: Aditii-12
+          token: ${{ secrets.GITHUB_TOKEN }}
+          reduced: false
+          branch: comet-graph
