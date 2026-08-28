@@ -59,7 +59,25 @@
 </p>
 
 ---
+# 🧩 LeetCode Stats
 
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/aditisahu12?theme=dark&font=Nunito&ext=heatmap"
+    alt="LeetCode Stats"
+    width="700"
+  />
+</p>
+
+
+<p align="center">
+  <img
+    src="https://leetcode-badge-showcase.vercel.app/api?username=aditisahu12&animated=true&theme=tokyonight&border=no-border"
+    alt="LeetCode Badges"
+  />
+</p>
+
+---
 
 
 # 💻 Competitive Programming
